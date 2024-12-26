@@ -4,17 +4,15 @@
     "author": "Ultrobro",
     "creators": ["Ultrobro, ChatGPT"],
     "verifier": "Ultrobro",
-    "verification": "https://youtu.be/YqkWAbhsuhY?si=4fBCUAL-1u1D90s_",
+    "verification": "https://youtu.be/YqkWAbhsuhY?si=4fBCUAL-1u1D90s",
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
         {
-            "name": "JoeBeSlow",
+            "user": "JoeBeSlow",
             "link": "https://youtu.be/bOdP_WEJ2aQ?si=JC4LxAh5lA_N_fZX",
             "percent": "100",
             "hz": "120"
         }
     ]
 }
-
-
