@@ -7,21 +7,31 @@
     {
         "role": "admin",
         "name": "legithumanperson",
-        "link": "https://www.youtube.com/channel/UCIlbMg8rKew3PGDGK5BIthw, https://www.youtube.com/@zonkers84"
+        "link": "https://www.youtube.com/channel/UCIlbMg8rKew3PGDGK5BIthw"
     },
     {
         "role": "admin",
         "name": "Random",
-        "link": "https://www.youtube.com/channel/UCIlbMg8rKew3PGDGK5BIthw, https://www.youtube.com/@zonkers84"
+        "link": "https://www.youtube.com/channel/UCIeMSNQEmqjEpVhNa2vnimg"
+    },
+    {
+        "role": "admin",
+        "name": "Aephyll",
+        "link": "https://www.youtube.com/channel/UCwmGM-lUZi7nmdB1g6JHnsA"
+    },
+    {
+        "role": "admin",
+        "name": "Arrarian",
+        "link": "https://www.youtube.com/@ArrarianGD"
+    },
+    {
+        "role": "admin",
+        "name": "Chiken11",
+        "link": "https://www.youtube.com/@GDChiken11"
     },
     {
         "role": "helper",
         "name": "zonkers",
-        "link": "https://www.youtube.com/@Prometheus_Alt, https://www.youtube.com/@zonkers84"
-    },
-    {
-        "role": "helper",
-        "name": "chiken11",
         "link": "https://www.youtube.com/@Prometheus_Alt, https://www.youtube.com/@zonkers84"
     },
     {
