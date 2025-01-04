@@ -55,6 +55,12 @@
             "link": "https://www.youtube.com/watch?v=HI_zZ9EviNM",
             "percent": "100",
             "hz": "120"
+        },
+        {
+            "user": "ryan",
+            "link": "https://www.youtube.com/watch?v=2RIiYxWGWL0",
+            "percent": "100",
+            "hz": "720"
         }
     ]
 }
