@@ -61,6 +61,12 @@
             "link": "https://www.youtube.com/watch?v=f3k4G1uY6-8",
             "percent": "100",
             "hz": "240"
+        },
+        {
+            "user": "ryan",
+            "link": "https://www.youtube.com/watch?v=2RIiYxWGWL0",
+            "percent": "100",
+            "hz": "720"
         }
     ]
 }
