@@ -8,6 +8,12 @@
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "ryan",
+            "link": "https://www.youtube.com/watch?v=H1C0YkjuNL4",
+            "percent": "100",
+            "hz": "240"
+        }
     ]
 }
 
