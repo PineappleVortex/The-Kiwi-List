@@ -9,6 +9,12 @@
     "password": "Free To Copy",
     "nong": "Travis Scott - Nightcrawler",
     "records": [
+        {
+            "user": "ryan",
+            "link": "https://www.youtube.com/watch?v=Bzb69GfQYIc",
+            "percent": "100",
+            "hz": "240"
+        }
     ]
 }
 
