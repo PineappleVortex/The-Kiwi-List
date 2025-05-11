@@ -43,6 +43,7 @@
             "link": "https://www.youtube.com/watch?v=_3u3b4cWLvw&feature=youtu.be",
             "percent": "100",
             "hz": "60"
+            
         },
         {
             "user": "therealfive",
@@ -55,6 +56,12 @@
             "link": "https://www.youtube.com/watch?v=H1C0YkjuNL4",
             "percent": "100",
             "hz": "240"
+        },
+        {
+            "user": "thereillobim",
+            "link": "https://www.youtube.com/watch?v=LFyhj3JcN9w",
+            "percent": "100",
+            "hz": "60"
         }
     ]
 }
