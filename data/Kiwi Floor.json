@@ -55,6 +55,12 @@
             "link": "https://www.youtube.com/watch?v=2RIiYxWGWL0",
             "percent": "100",
             "hz": "720"
+        },
+        {
+            "user": "leaf",
+            "link": "https://www.youtube.com/watch?v=1UtK2oUuUWM",
+            "percent": "100",
+            "hz": "240"
         }
     ]
 }
