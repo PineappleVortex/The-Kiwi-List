@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "JoeBeSlow",
+            "link": "https://youtu.be/sz99d0L2rCg",
+            "percent": "100",
+            "hz": "360"
+        }
     ]
 }
