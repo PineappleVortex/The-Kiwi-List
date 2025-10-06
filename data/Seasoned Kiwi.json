@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "geo",
+            "link": "https://youtu.be/x941O9dLpzI?si=VOn305-_3wHBsw8s",
+            "percent": "100",
+            "hz": "240"
+        }
     ]
 }
