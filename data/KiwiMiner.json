@@ -8,5 +8,17 @@
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "Quantainium",
+            "link": "https://youtu.be/Qgp3zhkUgjk",
+            "percent": "100",
+            "hz": "360"
+        },
+        {
+            "user": "leaf",
+            "link": "https://youtu.be/LCDSw9o59RY",
+            "percent": "100",
+            "hz": "240"
+        }
     ]
 }
