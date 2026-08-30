@@ -8,6 +8,12 @@
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "leaf",
+            "link": "https://youtu.be/2tf5LIBBbTI",
+            "percent": "100",
+            "hz": "240"
+        }
     ]
 }
 
