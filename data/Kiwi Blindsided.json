@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "DrewJourneyy",
+            "link": "https://www.youtube.com/watch?v=_48x4wooQbU",
+            "percent": "100",
+            "hz": "480"
+        }
     ]
 }
